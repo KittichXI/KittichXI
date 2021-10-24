@@ -1,12 +1,14 @@
 <h1>✨ My Portfolio ✨</h1>
 <hr>
-<h3>
+<1>🐱‍🏍 About me 🐱‍🏍</h1>
+<h4>
 - 👋 Hi, I’m @KittichXI<br>
 - 👀 I’m interested in Python, HTML , C , Java , Javascript <br>
 - 💼 I'm looking to work with big companies in the country or maybe looking for good companies abroad.<br>
-- 📫 How to reach me<br>
-- Gmail : kittichdev@gmail.com
-</h3>
+- 📫 Gmail : kittichdev@gmail.com<br>
+<hr> 
+</h4>
+<hr>
 
 
 

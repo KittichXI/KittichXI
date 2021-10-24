@@ -1,6 +1,6 @@
 <h1>✨ My Portfolio ✨</h1>
 <hr>
-<1>🐱‍🏍 About me 🐱‍🏍</h1>
+<h1>🐱‍🏍 About me 🐱‍🏍</h1>
 <h4>
 - 👋 Hi, I’m @KittichXI<br>
 - 👀 I’m interested in Python, HTML , C , Java , Javascript <br>
@@ -9,7 +9,9 @@
 <hr> 
 </h4>
 <hr>
-
+<h1>🎂 To do list 🎂</h1>
+<ul>Test</ul>
+<hr>
 
 
 

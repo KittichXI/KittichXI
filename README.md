@@ -8,7 +8,6 @@
 - 📫 Gmail : kittichdev@gmail.com<br>
 <hr> 
 </h4>
-<hr>
 <h1>🎂 To do list 🎂</h1>
 <ul>
 <li>Learning Python Beginner to Advanced in 2022</li>

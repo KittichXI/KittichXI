@@ -1,4 +1,4 @@
-<h1>My Portfolio</h1>
+<h1>✨ My Portfolio ✨</h1>
 <hr>
 <h3>
 - 👋 Hi, I’m @KittichXI<br>

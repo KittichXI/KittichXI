@@ -1,5 +1,5 @@
 <h1>My Portfolio</h1>
-<br>
+<hr>
 <h3>
 - 👋 Hi, I’m @KittichXI<br>
 - 👀 I’m interested in Python, HTML , C , Java , Javascript <br>

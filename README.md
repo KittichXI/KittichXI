@@ -1,4 +1,4 @@
-<h1>✨ My Portfolio ✨</h1>
+<h1>✨ My Project ✨</h1>
 <hr>
 <h1>🐱‍🏍 About me 🐱‍🏍</h1>
 <h4>

@@ -14,7 +14,6 @@
  <li>Make simple project with HTML and JS</li>
 </ul>
 <hr>
-
 <!---
 KittichXI/KittichXI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

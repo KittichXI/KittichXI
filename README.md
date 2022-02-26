@@ -1,6 +1,4 @@
-<h1>✨ KittichXI ✨</h1>
-<hr>
-<h1>🐱‍🏍 About me 🐱‍🏍</h1>
+<h1>KittichXI</h1>
 <h4>
 - 👋 Hi, I’m @KittichXI<br>
 - 👀 I’m interested in Python, HTML , C , Java , Javascript <br>
